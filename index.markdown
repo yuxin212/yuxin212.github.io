@@ -8,7 +8,7 @@ title: "Yuxin Yang's Page"
 
 # Yuxin Yang
 
-:wave: **Hi there, this is Yuxin Yang.**
+**Hi there, this is Yuxin Yang.**
 
 [Google Scholar](https://scholar.google.com/citations?user=uySaSTcAAAAJ), [LinkedIn](https://www.linkedin.com/in/yuxin-yang-0b0938115/)
 
